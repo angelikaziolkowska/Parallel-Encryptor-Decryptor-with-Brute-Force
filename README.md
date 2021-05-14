@@ -1,1 +1,1 @@
-# Paraller-Encryptor-Decryptor-with-Brute-Force
+# Parallel-Encryptor-Decryptor-with-Brute-Force
